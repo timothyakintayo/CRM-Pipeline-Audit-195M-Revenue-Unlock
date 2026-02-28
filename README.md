@@ -48,7 +48,7 @@ This framework was built to answer the four questions that matter at board level
 > *This identified when revenue is likely to increase. Showed revenue is likely to increase by $188K when account size is enterprise*
 
 ### Page 7 — Revenue Recovery & Pipeline Optimisation Simulation
-![Revenue Simulation Dashboard](images/revenue_simulation.png)
+![Revenue Simulation Dashboard](images/revenue_simulation.jpg)
 > *Live scenario model — adjust the win rate slider and see the direct financial impact on revenue and total pipeline increase. The starting is at 30% as this helps to cover the 9% left for the benchmarked 30% win rate target out of which the realized was 20.9*
 
 🎬 Live Demo — Revenue Unlock Simulation
