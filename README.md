@@ -51,6 +51,9 @@ This framework was built to answer the four questions that matter at board level
 ![Revenue Simulation Dashboard](images/revenue_simulation.png)
 > *Live scenario model — adjust the win rate slider and see the direct financial impact on revenue and total pipeline increase. The starting is at 30% as this helps to cover the 9% left for the benchmarked 30% win rate target out of which the realized was 20.9*
 
+🎬 Live Demo — Revenue Unlock Simulation
+Adjust the win rate slider and see the direct financial impact on total pipeline and recoverable revenue in real time.
+https://github.com/user-attachments/assets/264701f9-a95d-47ff-a8fd-7b6f3db81f70
 ---
 
 ## 🔍 Key Findings
