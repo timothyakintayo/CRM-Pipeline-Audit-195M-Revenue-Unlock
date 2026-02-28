@@ -1,6 +1,6 @@
 # 📊 From Pipeline to Profit: A Commercial Excellence Intelligence Framework
 
-![Power BI](commercial_excellence_project_page-1.jpg)
+![Power BI](images/pipeline_integrity.jpg)
 
 > A Power BI commercial intelligence framework that transforms raw CRM pipeline data into executive-grade revenue insights, exposing $18M in ghost revenue, diagnosing a $446M pipeline bottleneck, and modelling a $195M revenue unlock through improvement in percentage win rate.
 
@@ -24,11 +24,11 @@ This framework was built to answer the four questions that matter at board level
 ## Dashboard Overview
 
 ### Page 1 — Pipeline Integrity & Commercial Governance
-![Pipeline Integrity Dashboard](images/page1_pipeline_integrity.png)
+![Pipeline Integrity Dashboard](images/pipeline_integrity.jpg)
 > *Identifies ghost revenue, validates pipeline quality, and establishes the true forecastable baseline*
 
 ### Page 2 — Sales Effectiveness & Discount Optimisation
-![Sales Effectiveness Dashboard](images/sales_effectiveness.png)
+![Sales Effectiveness Dashboard](images/sales_effectiveness.jpg)
 > *Tracks win rate against strategic target and exposes the relationship between discounting behaviour and close rate*
 
 ### Page 3 — Revenue Performance by Region, Industry & Campaign
@@ -48,7 +48,7 @@ This framework was built to answer the four questions that matter at board level
 > *This identified when revenue is likely to increase. Showed revenue is likely to increase by $188K when account size is enterprise*
 
 ### Page 7 — Revenue Recovery & Pipeline Optimisation Simulation
-![Revenue Simulation Dashboard](images/page6_revenue_simulation.png)
+![Revenue Simulation Dashboard](images/revenue_simulation.png)
 > *Live scenario model — adjust the win rate slider and see the direct financial impact on revenue and total pipeline increase. The starting is at 30% as this helps to cover the 9% left for the benchmarked 30% win rate target out of which the realized was 20.9*
 
 ---
@@ -330,6 +330,7 @@ CRM-Commercial-Excellence/
 ## Author
 
 **Timothy**
+
 Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/timothy-akintayo)
